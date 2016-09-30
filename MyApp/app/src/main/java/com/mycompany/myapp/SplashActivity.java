@@ -1,4 +1,4 @@
-package com.danielBR.myrobot;
+package com.mycompany.myapp;
 
 import android.app.*;
 import android.os.*;

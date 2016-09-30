@@ -19,7 +19,7 @@
             android:name=".SplashActivity"
             android:theme="@android:style/Theme.NoTitleBar" >
             <intent-filter>
-                <action android:name="android.intent.action.splash" />
+                <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
