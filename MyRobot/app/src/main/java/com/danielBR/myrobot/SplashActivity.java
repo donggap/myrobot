@@ -2,6 +2,7 @@ package com.danielBR.myrobot;
 
 import android.app.*;
 import android.os.*;
+import androdi.content.*;
 
 public class SplashActivity extends Activity 
 {
